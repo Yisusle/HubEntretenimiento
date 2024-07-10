@@ -1,5 +1,28 @@
 # HubEntretenimiendo
 
+## Jesus Antonio Leyva Apodaca
+
+### 1. Resumen de maximo 3 lineas de tu proyecto
+
+### 2. Requerimientos tecnicos -
+Utlice Bootstrap y angular materials
+
+### 3. Como instalar?
+
+### 4. Capturas de pantalla - 5 capturas con explicacion
+
+
+
+### 5. Proceso que seguiste para hacerlo 
+
+
+### 6. Tabla con Sprint Review 
+
+| Que salio bien? | Que puedo hacer diferente? | Que no salio bien ? |
+------------------|----------------------------|-----------------------
+|  |  |  |
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
 ## Development server
